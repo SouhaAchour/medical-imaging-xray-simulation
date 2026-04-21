@@ -23,7 +23,7 @@ The goal is to understand how imaging systems work and how data is processed in 
 
 A detailed report explaining the methodology and results is available:
 
-- [Project Report](report-medical-imaging_01.pdf)
+- [Project Report](report-medical-imaging-01.pdf)
 
 ## Context
 Academic project in medical imaging.
